@@ -18,7 +18,10 @@
   ███████║██║██║ ╚═╝ ██║██║     ███████╗██║██║        ██║   ██║  ██║███████╗██║      ╚██████╔╝
   ╚══════╝╚═╝╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝╚═╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝       ╚═════╝ 
 ```
+# SimplifyRepo ELITE
 
+> 🚀 **Production Engine Live:** Experience the architecture at [simplifyrepo.vercel.app](https://simplifyrepo.vercel.app)
+> ⚙️ **Powered by our proprietary APEX-7 Technical Debt Engine.**
 <br/>
 
 # SYSTEM ARCHITECTURE WHITEPAPER
