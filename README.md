@@ -5,9 +5,10 @@
 <br/>
 
 <!-- IDENTITY ROW -->
-[![Platform](https://img.shields.io/badge/SimplifyRepo-APEX--7_Engine-FF4500?style=for-the-badge&logo=apachespark&logoColor=white)](.)
+[![Platform](https://img.shields.io/badge/SimplifyRepo-APEX--7_Engine-FF4500?style=for-the-badge&logo=apachespark&logoColor=white)](https://www.simplifyrepo.vercel.app)
 [![Version](https://img.shields.io/badge/Version-3.1.0-0A0A0A?style=for-the-badge&logo=semver&logoColor=white)](.)
-[![Status](https://img.shields.io/badge/Status-Production_Grade-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](.)
+[![License](https://img.shields.io/badge/License-Proprietary%20%C2%A9%20SimplifyRepo-DC2626?style=for-the-badge&logo=lock&logoColor=white)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-Production_Grade-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.simplifyrepo.vercel.app)
 
 <br/>
 
@@ -43,14 +44,6 @@
 
 </div>
 
-```
-  ███████╗██╗███╗   ███╗██████╗ ██╗     ██╗███████╗██╗   ██╗██████╗ ███████╗██████╗  ██████╗ 
-  ██╔════╝██║████╗ ████║██╔══██╗██║     ██║██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔═══██╗
-  ███████╗██║██╔████╔██║██████╔╝██║     ██║█████╗   ╚████╔╝ ██████╔╝█████╗  ██████╔╝██║   ██║
-  ╚════██║██║██║╚██╔╝██║██╔═══╝ ██║     ██║██╔══╝    ╚██╔╝  ██╔══██╗██╔══╝  ██╔═══╝ ██║   ██║
-  ███████║██║██║ ╚═╝ ██║██║     ███████╗██║██║        ██║   ██║  ██║███████╗██║      ╚██████╔╝
-  ╚══════╝╚═╝╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝╚═╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝       ╚═════╝ 
-```
 # SimplifyRepo AI
 
 > 🚀 **Production Engine Live:** Experience the architecture at [simplifyrepo.vercel.app](https://simplifyrepo.vercel.app)
