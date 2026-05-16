@@ -1,0 +1,22 @@
+SIMPLIFYREPO PROPRIETARY LICENSE
+
+Copyright (c) 2025 SimplifyRepo. All Rights Reserved.
+
+This software, documentation, algorithms (including but not limited to the 
+APEX-7 Deterministic Engine), architectural specifications, and all associated 
+intellectual property are the exclusive property of SimplifyRepo.
+
+RESTRICTIONS — The following are strictly prohibited without prior written 
+permission from SimplifyRepo:
+
+  1. Copying, reproducing, or distributing any portion of this codebase
+  2. Using the APEX-7 algorithm or its methodology in any competing product
+  3. Reverse engineering the debt quantification methodology
+  4. Using this architecture document as the basis for any commercial product
+  5. Claiming authorship or co-authorship of any component of this system
+
+This repository is made public solely for portfolio demonstration and 
+architectural transparency purposes. Public visibility does not constitute 
+an open-source license of any kind.
+
+For licensing inquiries: [simplifyrepo@gmail.com]
