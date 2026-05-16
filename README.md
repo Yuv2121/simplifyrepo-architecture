@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SimplifyRepo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Core%20Engine%3A%20APEX-7%20%C2%B7%20Deterministic%20Repository%20Intelligence&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SimplifyRepo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Core%20Engine%3A%20APEX-7%20%C2%B7%20Deterministic%20Repository%20Intelligence&descAlignY=58&descSize=16" width="100%"/> 
 
 <br/>
 
@@ -15,7 +15,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict_Mode-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](.)
 [![Deno](https://img.shields.io/badge/Deno-Edge_Runtime-000000?style=for-the-badge&logo=deno&logoColor=white)](.)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL_%2B_RLS-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](.)
-[![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-LLM_Layer-4285F4?style=for-the-badge&logo=google&logoColor=white)](.)
+[![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-LLM_Layer-4285F4?style=for-the-badge&logo=google&logoColor=white)](.)
 [![React](https://img.shields.io/badge/React_18-Vite_%2B_TanStack-61DAFB?style=for-the-badge&logo=react&logoColor=black)](.)
 
 <br/>
@@ -27,13 +27,6 @@
 
 <br/>
 
-<!-- SIGNAL ROW -->
-[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=git&logoColor=white&color=0D1117&labelColor=30363D)](.)
-[![Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=files&logoColor=white&color=0D1117&labelColor=30363D)](.)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=lock&logoColor=white)](.)
-
-<br/><br/>
-
 > ### *"Repository comprehension reduced from hours to minutes.*
 > ### *Not by approximation — by deterministic mathematics."*
 
@@ -44,9 +37,6 @@
 | Metric | Value | Source |
 |:---:|:---:|:---:|
 | 🧠 Languages in APEX-7 Matrix | **30+** | COCOMO II-grounded |
-| ⚡ API Call Reduction | **~60%** | TanStack Query cache |
-| 🔒 Tenant Isolation | **Architectural** | PostgreSQL RLS |
-| 📊 Enterprise Modules | **9** | ELITE Dashboard |
 | 🛡️ Debt Estimate Caps | **Hard mathematical** | Credibility-Bounds Firewall |
 
 ---
@@ -61,7 +51,7 @@
   ███████║██║██║ ╚═╝ ██║██║     ███████╗██║██║        ██║   ██║  ██║███████╗██║      ╚██████╔╝
   ╚══════╝╚═╝╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝╚═╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝       ╚═════╝ 
 ```
-# SimplifyRepo ELITE
+# SimplifyRepo AI
 
 > 🚀 **Production Engine Live:** Experience the architecture at [simplifyrepo.vercel.app](https://simplifyrepo.vercel.app)
 > ⚙️ **Powered by our proprietary APEX-7 Technical Debt Engine.**
@@ -79,7 +69,7 @@
 
 | Document Classification | Revision | Published | Specification Level |
 |:---|:---|:---|:---|
-| Public Architecture Disclosure | `v3.1.0` | 2025 | Principal Staff Engineer |
+| Public Architecture Disclosure | `v3.1.0` | 2026 | Principal Staff Engineer |
 
 <br/>
 
@@ -2571,5 +2561,20 @@ All implementation decisions described herein are reflected in the production co
 ![Runtime](https://img.shields.io/badge/Edge_Runtime-Deno-000000?style=flat-square&logo=deno)
 ![LLM](https://img.shields.io/badge/LLM-Gemini_1.5_Flash-4285F4?style=flat-square&logo=google)
 ![License](https://img.shields.io/badge/Architecture-Proprietary-red?style=flat-square)
+
+---
+
+<div align="center">
+
+**© 2025 SimplifyRepo · All Rights Reserved**
+
+The APEX-7 algorithm, debt quantification methodology, and all system architecture  
+described in this document are proprietary intellectual property of SimplifyRepo.  
+Public visibility of this repository does not constitute an open-source license.  
+Unauthorized reproduction, adaptation, or commercial use is strictly prohibited.
+
+*Architecture designed and engineered by the SimplifyRepo Engineering Team.*
+
+</div>
 
 </div>
