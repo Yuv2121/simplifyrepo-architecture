@@ -1,14 +1,57 @@
 <div align="center">
 
-<!-- HEADER BADGE STRIP -->
-![Platform](https://img.shields.io/badge/Platform-SimplifyRepo-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
-![Engine](https://img.shields.io/badge/Core_Engine-Apex--7-FF4500?style=for-the-badge&logo=apachespark&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Production_Grade-00C851?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture-Neuro--Symbolic_AI-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strict_Mode-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Deno](https://img.shields.io/badge/Runtime-Deno_Edge-000000?style=for-the-badge&logo=deno&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SimplifyRepo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Core%20Engine%3A%20APEX-7%20%C2%B7%20Deterministic%20Repository%20Intelligence&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
+
+<!-- IDENTITY ROW -->
+[![Platform](https://img.shields.io/badge/SimplifyRepo-APEX--7_Engine-FF4500?style=for-the-badge&logo=apachespark&logoColor=white)](.)
+[![Version](https://img.shields.io/badge/Version-3.1.0-0A0A0A?style=for-the-badge&logo=semver&logoColor=white)](.)
+[![Status](https://img.shields.io/badge/Status-Production_Grade-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](.)
+
+<br/>
+
+<!-- STACK ROW -->
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict_Mode-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](.)
+[![Deno](https://img.shields.io/badge/Deno-Edge_Runtime-000000?style=for-the-badge&logo=deno&logoColor=white)](.)
+[![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL_%2B_RLS-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](.)
+[![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-LLM_Layer-4285F4?style=for-the-badge&logo=google&logoColor=white)](.)
+[![React](https://img.shields.io/badge/React_18-Vite_%2B_TanStack-61DAFB?style=for-the-badge&logo=react&logoColor=black)](.)
+
+<br/>
+
+<!-- INTELLIGENCE ROW -->
+[![Architecture](https://img.shields.io/badge/Architecture-Neuro--Symbolic_AI-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)](.)
+[![Algorithm](https://img.shields.io/badge/Algorithm-APEX--7_%C2%B7_8--Step_Deterministic-FF4500?style=for-the-badge&logo=apachespark&logoColor=white)](.)
+[![Security](https://img.shields.io/badge/Security-JWT_%2B_RLS_%2B_Injection_Hardened-DC2626?style=for-the-badge&logo=shield&logoColor=white)](.)
+
+<br/>
+
+<!-- SIGNAL ROW -->
+[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=git&logoColor=white&color=0D1117&labelColor=30363D)](.)
+[![Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=files&logoColor=white&color=0D1117&labelColor=30363D)](.)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=lock&logoColor=white)](.)
+
+<br/><br/>
+
+> ### *"Repository comprehension reduced from hours to minutes.*
+> ### *Not by approximation — by deterministic mathematics."*
+
+<br/>
+
+---
+
+| Metric | Value | Source |
+|:---:|:---:|:---:|
+| 🧠 Languages in APEX-7 Matrix | **30+** | COCOMO II-grounded |
+| ⚡ API Call Reduction | **~60%** | TanStack Query cache |
+| 🔒 Tenant Isolation | **Architectural** | PostgreSQL RLS |
+| 📊 Enterprise Modules | **9** | ELITE Dashboard |
+| 🛡️ Debt Estimate Caps | **Hard mathematical** | Credibility-Bounds Firewall |
+
+---
+
+</div>
 
 ```
   ███████╗██╗███╗   ███╗██████╗ ██╗     ██╗███████╗██╗   ██╗██████╗ ███████╗██████╗  ██████╗ 
